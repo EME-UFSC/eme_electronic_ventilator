@@ -2,6 +2,7 @@
 # Especificações do Ministério da Saúde:
 
 **Características mínimas exigidas:**
+
 	- Ventilador mecânico microprocessado; 
 	- com tela gráfica colorida; 
 	- para uso em pacientes adultos, pediátricos; 
@@ -17,6 +18,7 @@
 		- estratégia ventilatória espontânea que permita ventilar à pressão com volume corrente alvo. 
 
 **Deverá apresentar no mínimo os seguintes parâmetros ajustáveis através de botões e/ou teclas: **
+
 	- volume corrente, 
 	- frequência respiratória, 
 	- pressão inspiratória, 
@@ -30,6 +32,7 @@
 	- sensibilidade inspiratória (trigger) a fluxo de 0.2 a 9l/min e/ou a pressão de -0.5 a -15cmh2o.  
 
 **Deverá possuir: **
+
 	- pausa inspiratória e pausa expiratória, 
 	- ventilação de apnéia programável para os modos espontâneos, 
 	- mecanismo misturador ar/oxigênio incorporado internamente ao ventilador, 
