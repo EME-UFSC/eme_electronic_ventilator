@@ -1,0 +1,98 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Netrev Allegro Import Logic                                      )
+(                                                                     )
+(    Drawing          : Medical_Ventilator_VA.brd                     )
+(    Software Version : 16.3p004                                      )
+(    Date/Time        : Wed Nov 10 09:50:41 2010                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------
+
+RIPUP_ETCH FALSE;
+RIPUP_SYMBOLS ALWAYS;
+Missing symbol has error FALSE;
+SCHEMATIC_DIRECTORY 'C:/Documents and Settings/Administrador/Mis documentos/nacuri/ventilador/HW/Netlist';
+BOARD_DIRECTORY '';
+OLD_BOARD_NAME 'C:/Documents and Settings/Administrador/Mis documentos/nacuri/ventilador/HW/Medical_Ventilator_VA,1/Medical_Ventilator_VA.brd';
+NEW_BOARD_NAME 'C:/Documents and Settings/Administrador/Mis documentos/nacuri/ventilador/HW/Medical_Ventilator_VA,1/Medical_Ventilator_VA.brd';
+
+CmdLine: netrev -$ -i C:/Documents and Settings/Administrador/Mis documentos/nacuri/ventilador/HW/Netlist -y 1 -z C:/Documents and Settings/Administrador/Mis documentos/nacuri/ventilador/HW/Medical_Ventilator_VA,1/#Taaaaaa02060.tmp
+
+------ Preparing to read pst files ------
+
+Starting to read C:/Documents and Settings/Administrador/Mis documentos/nacuri/ventilador/HW/Netlist/pstchip.dat 
+   Finished reading C:/Documents and Settings/Administrador/Mis documentos/nacuri/ventilador/HW/Netlist/pstchip.dat (00:00:00.14)
+Starting to read C:/Documents and Settings/Administrador/Mis documentos/nacuri/ventilador/HW/Netlist/pstxprt.dat 
+   Finished reading C:/Documents and Settings/Administrador/Mis documentos/nacuri/ventilador/HW/Netlist/pstxprt.dat (00:00:00.01)
+Starting to read C:/Documents and Settings/Administrador/Mis documentos/nacuri/ventilador/HW/Netlist/pstxnet.dat 
+   Finished reading C:/Documents and Settings/Administrador/Mis documentos/nacuri/ventilador/HW/Netlist/pstxnet.dat (00:00:00.01)
+
+------ Oversights/Warnings/Errors ------
+
+
+------ Library Paths ------
+MODULEPATH =  . 
+           C:/Cadence/SPB_16.3/share/local/pcb/modules 
+           C:\Cadence\FCL libraries\AccessDB\AccessDB\ 
+           C:\Cadence\FCL libraries\Allegro_libray\ALLEGRO\ 
+           C:\Cadence\FCL libraries\SYMBOLS\SYMBOLS\ 
+
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_16.3/share/local/pcb/symbols 
+           C:/Cadence/SPB_16.3/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_16.3/share/pcb/allegrolib/symbols 
+           C:\Cadence\FCL libraries\Allegro_libray\ALLEGRO\package\ 
+           C:\Cadence\FCL libraries\AccessDB\ 
+           C:\Cadence\FCL libraries\SYMBOLS\ 
+           C:\Cadence\FCL libraries\Relay\Relay\ 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_16.3/share/local/pcb/padstacks 
+           C:/Cadence/SPB_16.3/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_16.3/share/pcb/allegrolib/symbols 
+           C:\Cadence\FCL libraries\AccessDB\AccessDB\ 
+           C:\Cadence\FCL libraries\Allegro_libray\ALLEGRO\pads\ 
+           C:\CADENCE\FCL LIBRARIES\SYMBOLS\SYMBOLS\ 
+           C:\Cadence\FCL libraries\Relay\Relay\ 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Nov 10 9:50:41 2010
+   DESIGN NAME : 'MEDICAL_RESPIRATORVA,1'
+   PACKAGING ON Nov 17 2009 03:09:43
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:03:35
+elapsed time  0:00:02
+

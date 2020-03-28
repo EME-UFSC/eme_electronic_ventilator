@@ -1,0 +1,53 @@
+\t (00:01:35) allegro_free_viewer 16.5 S004 (v16-5-0A) i86
+\t (00:01:35)     Journal start - Thu Jan 19 17:12:23 2012
+\t (00:01:35)         Host=B35902-11 User=B35902 Pid=4224 CPUs=2
+\t (00:01:35) 
+\d (00:01:35) Database opened: D:/Profiles/b35902/My Documents/Archivos Freescale/Ventilator/1rst spin Final HW Deliverables for Freescale/Layout_Ventilator_VA,1/Medical_Ventilator_VA.brd
+\i (00:01:45) setwindow form.vf_vis
+\i (00:01:45) FORM vf_vis all_all_visible YES 
+\i (00:01:46) FORM vf_vis all_all_visible NO 
+\i (00:01:47) FORM vf_vis all_all_visible YES 
+\i (00:01:48) FORM vf_vis all_all_visible_pln YES 
+\i (00:01:49) FORM vf_vis all_all_visible NO 
+\i (00:01:51) FORM vf_vis 4 all_colorvisible YES 
+\i (00:01:52) FORM vf_vis 5 all_colorvisible YES 
+\i (00:01:54) FORM vf_vis 1 all_colorvisible YES 
+\i (00:01:56) setwindow pcb
+\i (00:01:56) roam x -96 
+\i (00:01:56) roam x -96
+\i (00:01:57) roam y 96 
+\i (00:01:57) roam y 96
+\i (00:01:57) roam y 96 
+\i (00:01:57) roam y 96
+\i (00:01:57) roam y 96 
+\i (00:01:57) roam y 96
+\i (00:01:58) roam y 96 
+\i (00:01:58) roam y 96
+\i (00:01:58) roam y 96 
+\i (00:01:58) roam y 96
+\i (00:01:58) roam y -96 
+\i (00:01:58) roam y -96
+\i (00:01:58) roam y -96 
+\i (00:01:58) roam y -96
+\i (00:01:58) roam x 96 
+\i (00:01:58) roam x 96
+\i (00:02:00) roam x -96 
+\i (00:02:00) roam x -96
+\i (00:02:06) roam y -96 
+\i (00:02:06) roam y -96
+\i (00:02:07) roam y -96 
+\i (00:02:07) roam y -96
+\i (00:02:11) setwindow form.vf_vis
+\i (00:02:11) FORM vf_vis all_all_visible YES 
+\i (00:02:21) setwindow form.mini
+\i (00:02:21) FORM mini subclass BOTTOM 
+\i (00:02:25) FORM mini subclass TOP 
+\i (00:02:28) FORM mini subclass L3_PWR 
+\i (00:02:30) FORM mini subclass BOTTOM 
+\i (00:02:32) FORM mini dim_hlt_objs YES 
+\i (00:02:33) FORM mini dim_hlt_objs NO 
+\i (00:02:34) FORM mini dim_active_layer YES 
+\i (00:02:35) FORM mini dim_active_layer NO 
+\i (00:13:22) setwindow pcb
+\i (00:13:22) exit 
+\t (00:13:23)     Journal end - Thu Jan 19 17:24:11 2012

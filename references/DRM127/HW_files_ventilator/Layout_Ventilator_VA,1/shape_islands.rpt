@@ -1,0 +1,18 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Shape Island Report                                              )
+(                                                                     )
+(    Drawing          : Medical_Ventilator_VA.brd                     )
+(    Software Version : 16.3p006                                      )
+(    Date/Time        : Wed Nov 10 10:06:47 2010                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+  Total islands on design: 3
+
+
+  Layer = TOP
+	Point on shape: (1818.6 1144.4)  Net: GND_POWER
+	Point on shape: (1892.3 1172.4)  Net: GND_POWER
+	Point on shape: (1902.6 1080.4)  Net: GND_POWER

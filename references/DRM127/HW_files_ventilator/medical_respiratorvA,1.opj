@@ -1,0 +1,240 @@
+(ExpressProject "Medical_RespiratorV0,1"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File "c:\cadence\fcl libraries\symbols\symbols\fcl_capacitor.olb"
+        (Type "Schematic Library"))
+      (File "c:\cadence\fcl libraries\symbols\symbols\fcl_connector2.olb"
+        (Type "Schematic Library"))
+      (File "c:\cadence\fcl libraries\symbols\symbols\fcl_connector.olb"
+        (Type "Schematic Library"))
+      (File "c:\cadence\fcl libraries\symbols\symbols\fcl_ic2.olb"
+        (Type "Schematic Library"))
+      (File "c:\cadence\fcl libraries\symbols\symbols\fcl_ic3.olb"
+        (Type "Schematic Library"))
+      (File "c:\cadence\fcl libraries\symbols\symbols\fcl_ic4.olb"
+        (Type "Schematic Library"))
+      (File "c:\cadence\fcl libraries\symbols\symbols\fcl_ic5.olb"
+        (Type "Schematic Library"))
+      (File "c:\cadence\fcl libraries\symbols\symbols\fcl_ic.olb"
+        (Type "Schematic Library"))
+      (File "c:\cadence\fcl libraries\symbols\symbols\fcl_ic_freescale.olb"
+        (Type "Schematic Library"))
+      (File "c:\cadence\fcl libraries\symbols\symbols\fcl_inductor.olb"
+        (Type "Schematic Library"))
+      (File "c:\cadence\fcl libraries\symbols\symbols\fcl_mcu.olb"
+        (Type "Schematic Library"))
+      (File "c:\cadence\fcl libraries\symbols\symbols\fcl_misc.olb"
+        (Type "Schematic Library"))
+      (File "c:\cadence\fcl libraries\symbols\symbols\fcl_module.olb"
+        (Type "Schematic Library"))
+      (File "c:\cadence\fcl libraries\symbols\symbols\fcl_optical.olb"
+        (Type "Schematic Library"))
+      (File "c:\cadence\fcl libraries\symbols\symbols\fcl_power.olb"
+        (Type "Schematic Library"))
+      (File "c:\cadence\fcl libraries\symbols\symbols\fcl_resistor.olb"
+        (Type "Schematic Library"))
+      (File "c:\cadence\fcl libraries\symbols\symbols\fcl_semiconductor.olb"
+        (Type "Schematic Library"))
+      (File "c:\cadence\fcl libraries\symbols\symbols\fcl_socket.olb"
+        (Type "Schematic Library"))
+      (File "c:\cadence\fcl libraries\symbols\symbols\fcl_standard.olb"
+        (Type "Schematic Library"))
+      (File "c:\cadence\fcl libraries\symbols\symbols\fcl_switch.olb"
+        (Type "Schematic Library"))
+      (File "c:\cadence\fcl libraries\symbols\symbols\fcl_transformer.olb"
+        (Type "Schematic Library"))
+      (File "c:\cadence\fcl libraries\symbols\symbols\fcl_xtal_osc.olb"
+        (Type "Schematic Library"))
+      (File ".\library1.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\medical_respiratorva,1.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (DRC_Scope "0")
+    (DRC_Action "0")
+    (DRC_Create_Warnings "FALSE")
+    (DRC_View_Output "FALSE")
+    (DRC_Run_Electrical_Rules "TRUE")
+    (DRC_Run_Physical_Rules "TRUE")
+    (DRC_Report_File
+       "C:\DOCUMENTS AND SETTINGS\ADMINISTRADOR\MIS DOCUMENTOS\NACURI\VENTILADOR\HW\MEDICAL_RESPIRATORV0,1.DRC")
+    (DRC_Check_Ports "FALSE")
+    (DRC_Check_Off-Page_Connectors "FALSE")
+    (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
+    (DRC_SDT_Compatibility "FALSE")
+    (DRC_Report_Off-grid_Objects "FALSE")
+    (DRC_Check_Unconnected_Nets "TRUE")
+    (DRC_Check_for_Misleading_TAP "FALSE")
+    (DRC_Report_Netnames "FALSE")
+    (DRC_Check_Single_Node_Nets "TRUE")
+    (DRC_Check_No_Driving_Source "TRUE")
+    (DRC_Check_Duplicate_NetNames "TRUE")
+    (DRC_Check_Floating_Pins "TRUE")
+    (DRC_Check_Physical_Power_Pins_Visibility "TRUE")
+    (DRC_Check_PCB_Footprint_Property "TRUE")
+    (DRC_Check_Normal_Convert_View_Sync "TRUE")
+    (DRC_Check_Incorrect_PinGroup_Assignment "TRUE")
+    (DRC_Check_High_Speed_Props_Syntax "TRUE")
+    (DRC_Check_Missing_Pin_Numbers "TRUE")
+    (DRC_Check_Device_With_No_Pins "TRUE")
+    (DRC_Check_Power_Ground_Short "TRUE")
+    (DRC_Identical_References "TRUE")
+    (DRC_Type_Mismatch "TRUE")
+    (DRC_Visible_Power_pins "FALSE")
+    (DRC_Report_Unused_Part_Packages "TRUE")
+    (DRC_Check_Name_Prop_For_HierBlocks "TRUE")
+    ("Create Allegro Netlist" "TRUE")
+    ("Allegro Netlist Directory"
+       "C:\DOCUMENTS AND SETTINGS\ADMINISTRADOR\MIS DOCUMENTOS\NACURI\VENTILADOR\HW\NETLIST")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Update Allegro Board" "FALSE")
+    ("Allegro Netlist Output Board File" "allegro\medical_respiratorv0,1.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Configuration File"
+       "C:\Cadence\SPB_16.3\tools\capture\allegro.cfg")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Output Warnings" "TRUE")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "31")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (Netlist_TAB "0")
+    (GATE_&_PIN_SWAP_Scope "0")
+    (GATE_&_PIN_SWAP_File_Name
+       "C:\DOCUMENTS AND SETTINGS\ADMINISTRADOR\MIS DOCUMENTOS\NACURI\VENTILADOR\HW\MEDICAL_RESPIRATORV0,2.SWP")
+    (Backannotation_TAB "1"))
+  (Folder "Outputs"
+    (File ".\medical_respiratorv0,1.drc"
+      (Type "Report"))
+    (File ".\netlist\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\netlist\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\netlist\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
+  (Folder "Referenced Projects")
+  (MPSSessionName "Administrador")
+  (PartMRUSelector
+    (DIODE_TVS
+      (FullPartName "DIODE_TVS.Normal")
+      (LibraryName
+         "C:\CADENCE\FCL LIBRARIES\SYMBOLS\SYMBOLS\FCL_SEMICONDUCTOR.OLB")
+      (DeviceIndex "0"))
+    (GND_EARTH
+      (LibraryName "C:\CADENCE\SPB_16.3\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (JSM1A
+      (FullPartName "JSM1A.Normal")
+      (LibraryName
+         "C:\DOCUMENTS AND SETTINGS\ADMINISTRADOR\MIS DOCUMENTOS\NACURI\VENTILADOR\HW\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (LED
+      (FullPartName "LED.Normal")
+      (LibraryName "C:\CADENCE\FCL LIBRARIES\SYMBOLS\SYMBOLS\FCL_OPTICAL.OLB")
+      (DeviceIndex "0"))
+    (SPEAKER
+      (FullPartName "SPEAKER.Normal")
+      (LibraryName "C:\CADENCE\FCL LIBRARIES\SYMBOLS\SYMBOLS\FCL_MISC.OLB")
+      (DeviceIndex "0"))
+    (XTAL_13Y
+      (FullPartName "XTAL_13Y.Normal")
+      (LibraryName "C:\CADENCE\FCL LIBRARIES\SYMBOLS\SYMBOLS\FCL_XTAL_OSC.OLB")
+      (DeviceIndex "0"))
+    (MP3V5050
+      (FullPartName "MP3V5050.Normal")
+      (LibraryName
+         "C:\DOCUMENTS AND SETTINGS\ADMINISTRADOR\MIS DOCUMENTOS\NACURI\VENTILADOR\HW\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (BUZZER
+      (FullPartName "BUZZER.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_16.3\TOOLS\CAPTURE\LIBRARY\ELECTROMECHANICAL.OLB")
+      (DeviceIndex "0"))
+    (2N2222
+      (FullPartName "2N2222.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.3\TOOLS\CAPTURE\LIBRARY\TRANSISTOR.OLB")
+      (DeviceIndex "0"))
+    ("RELAY SPDT"
+      (FullPartName "RELAY SPDT.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.3\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("RELAY 4PDT HE"
+      (FullPartName "RELAY 4PDT HERELAY 4PST HERELAY 4PDT HEA.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.3\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (4N28
+      (FullPartName "4N28.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.3\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (TIPL751
+      (FullPartName "TIPL751.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.3\TOOLS\CAPTURE\LIBRARY\TRANSISTOR.OLB")
+      (DeviceIndex "0"))
+    (XTAL
+      (FullPartName "XTAL.Normal")
+      (LibraryName "C:\CADENCE\FCL LIBRARIES\SYMBOLS\SYMBOLS\FCL_XTAL_OSC.OLB")
+      (DeviceIndex "0"))
+    (RES
+      (FullPartName "RES.Normal")
+      (LibraryName "C:\CADENCE\FCL LIBRARIES\SYMBOLS\SYMBOLS\FCL_RESISTOR.OLB")
+      (DeviceIndex "0"))
+    (VCC_BAR
+      (LibraryName "C:\CADENCE\SPB_16.3\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (KS11
+      (FullPartName "KS11.Normal")
+      (LibraryName "C:\CADENCE\FCL LIBRARIES\SYMBOLS\SYMBOLS\FCL_SWITCH.OLB")
+      (DeviceIndex "0"))
+    (SW2_STM151XX
+      (FullPartName "SW2_STM151XX.Normal")
+      (LibraryName "C:\CADENCE\FCL LIBRARIES\SYMBOLS\SYMBOLS\FCL_SWITCH.OLB")
+      (DeviceIndex "0"))
+    ("GND_FIELD SIGNAL"
+      (LibraryName "C:\CADENCE\SPB_16.3\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (CDRH5D16NP-4R7N
+      (FullPartName "CDRH5D16NP-4R7N.Normal")
+      (LibraryName "C:\CADENCE\FCL LIBRARIES\SYMBOLS\SYMBOLS\FCL_INDUCTOR.OLB")
+      (DeviceIndex "0"))
+    (78XX/TO
+      (FullPartName "78XX/TO.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.3\TOOLS\CAPTURE\LIBRARY\REGULATOR.OLB")
+      (DeviceIndex "0")))
+  (LastUsedLibraryBrowseDirectory
+     "C:\Documents and Settings\Administrador\Mis documentos\nacuri\ventilador\HW")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\medical_respiratorva,1.dsn")
+      (Path "Design Resources" ".\medical_respiratorva,1.dsn" "SCHEMATIC1")
+      (Path "Design Resources" "Library")
+      (Path "Outputs")
+      (Select "Design Resources" ".\medical_respiratorva,1.dsn" "Design Cache"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -4 -30 0 200 0 150"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -4 -30 22 1180 29 350")
+        (Scroll "-190 0")
+        (Zoom "39")
+        (Occurrence "/"))
+      (Path
+         "C:\DOCUMENTS AND SETTINGS\ADMINISTRADOR\MIS DOCUMENTOS\NACURI\VENTILADOR\HW\MEDICAL_RESPIRATORVA,1.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "SCHEMATIC PAGE1")))
+  (ISPCBBASICLICENSE "false"))

@@ -1,0 +1,253 @@
+\t (00:00:02) allegro_free_viewer 16.5 S004 (v16-5-0A) i86
+\t (00:00:02)     Journal start - Thu Feb 02 19:10:10 2012
+\t (00:00:02)         Host=B35902-11 User=B35902 Pid=4716 CPUs=2
+\t (00:00:02) 
+\t (00:00:02) Opening existing design...
+\d (00:00:03) Database opened: D:/Profiles/b35902/My Documents/Archivos Freescale/Ventilator/1rst spin Final HW Deliverables for Freescale/Layout_Ventilator_VA,1/Medical_Ventilator_VA.brd
+\t (00:00:04) Grids are drawn 64.0, 64.0 apart for enhanced viewability.
+\i (00:00:04) trapsize 235
+\i (00:00:04) trapsize 228
+\t (00:00:05) Grids are drawn 16.0, 16.0 apart for enhanced viewability.
+\i (00:00:05) trapsize 191
+\i (00:00:05) trapsize 191
+\i (00:00:59) roam y 96 
+\i (00:00:59) roam y 96
+\i (00:01:00) roam y 96 
+\i (00:01:00) roam y 96
+\i (00:01:00) roam y 96 
+\i (00:01:00) roam y 96
+\i (00:01:00) roam y 96 
+\i (00:01:00) roam y 96
+\i (00:01:00) roam y 96 
+\i (00:01:00) roam y 96
+\i (00:01:00) roam y 96 
+\i (00:01:00) roam y 96
+\i (00:01:00) roam y 96 
+\i (00:01:00) roam y 96
+\i (00:01:00) roam y 96 
+\i (00:01:00) roam y 96
+\i (00:01:00) roam y 96 
+\i (00:01:00) roam y 96
+\i (00:01:00) roam y 96 
+\i (00:01:00) roam y 96
+\i (00:01:00) roam y 96 
+\i (00:01:00) roam y 96
+\i (00:01:01) roam y -96 
+\i (00:01:01) roam y -96
+\i (00:01:02) roam y -96 
+\i (00:01:02) roam y -96
+\i (00:01:02) roam y -96 
+\i (00:01:02) roam y -96
+\i (00:01:02) roam y -96 
+\i (00:01:02) roam y -96
+\i (00:01:02) roam y -96 
+\i (00:01:02) roam y -96
+\i (00:01:02) roam y -96 
+\i (00:01:02) roam y -96
+\i (00:01:02) roam y -96 
+\i (00:01:02) roam y -96
+\i (00:01:02) roam y -96 
+\i (00:01:02) roam y -96
+\i (00:01:02) roam y -96 
+\i (00:01:02) roam y -96
+\i (00:01:02) roam y -96 
+\i (00:01:02) roam y -96
+\i (00:01:02) roam y -96 
+\i (00:01:02) roam y -96
+\i (00:01:02) roam y -96 
+\i (00:01:02) roam y -96
+\i (00:01:02) roam y -96 
+\i (00:01:02) roam y -96
+\e (00:01:03) Command not found: Pgdown
+\i (00:01:03) roam y 96 
+\i (00:01:03) roam y 96
+\i (00:01:04) roam y 96 
+\i (00:01:04) roam y 96
+\i (00:01:04) roam y 96 
+\i (00:01:04) roam y 96
+\i (00:01:04) roam y 96 
+\i (00:01:04) roam y 96
+\i (00:01:04) roam y 96 
+\i (00:01:04) roam y 96
+\i (00:01:06) roam x -96 
+\i (00:01:06) roam x -96
+\i (00:01:07) roam x 96 
+\i (00:01:07) roam x 96
+\i (00:01:07) roam y -96 
+\i (00:01:07) roam y -96
+\i (00:01:08) roam y -96 
+\i (00:01:08) roam y -96
+\i (00:01:08) roam y -96 
+\i (00:01:08) roam y -96
+\i (00:01:08) roam y -96 
+\i (00:01:08) roam y -96
+\i (00:01:08) roam y -96 
+\i (00:01:08) roam y -96
+\i (00:01:08) roam y -96 
+\i (00:01:08) roam y -96
+\i (00:01:08) roam y -96 
+\i (00:01:08) roam y -96
+\i (00:01:08) roam y -96 
+\i (00:01:08) roam y -96
+\i (00:01:08) roam y -96 
+\i (00:01:08) roam y -96
+\i (00:01:08) roam y -96 
+\i (00:01:08) roam y -96
+\i (00:01:08) roam y -96 
+\i (00:01:08) roam y -96
+\i (00:01:08) roam y -96 
+\i (00:01:08) roam y -96
+\i (00:01:08) roam y -96 
+\i (00:01:08) roam y -96
+\i (00:01:08) roam y -96 
+\i (00:01:08) roam y -96
+\i (00:01:08) roam y -96 
+\i (00:01:08) roam y -96
+\i (00:01:08) roam y -96 
+\i (00:01:08) roam y -96
+\i (00:01:08) roam y -96 
+\i (00:01:08) roam y -96
+\i (00:01:08) roam y -96 
+\i (00:01:08) roam y -96
+\i (00:01:08) roam y -96 
+\i (00:01:08) roam y -96
+\i (00:01:09) roam y -96 
+\i (00:01:09) roam y -96
+\i (00:01:09) roam y -96 
+\i (00:01:09) roam y -96
+\i (00:01:09) roam y -96 
+\i (00:01:09) roam y -96
+\i (00:01:09) roam y -96 
+\i (00:01:09) roam y -96
+\i (00:01:09) roam x -96 
+\i (00:01:09) roam x -96
+\i (00:01:09) roam x -96 
+\i (00:01:09) roam x -96
+\i (00:01:09) roam x -96 
+\i (00:01:09) roam x -96
+\i (00:01:09) roam x -96 
+\i (00:01:09) roam x -96
+\i (00:01:09) roam x -96 
+\i (00:01:09) roam x -96
+\i (00:01:09) roam x -96 
+\i (00:01:09) roam x -96
+\i (00:01:09) roam x -96 
+\i (00:01:09) roam x -96
+\i (00:01:09) roam x -96 
+\i (00:01:09) roam x -96
+\i (00:01:09) roam x -96 
+\i (00:01:09) roam x -96
+\i (00:01:09) roam y 96 
+\i (00:01:09) roam y 96
+\i (00:01:10) roam y 96 
+\i (00:01:10) roam y 96
+\i (00:01:10) roam y 96 
+\i (00:01:10) roam y 96
+\i (00:01:10) roam y 96 
+\i (00:01:10) roam y 96
+\i (00:01:10) roam y 96 
+\i (00:01:10) roam y 96
+\i (00:01:10) roam y 96 
+\i (00:01:10) roam y 96
+\i (00:01:10) roam y 96 
+\i (00:01:10) roam y 96
+\i (00:01:10) roam y 96 
+\i (00:01:10) roam y 96
+\i (00:01:10) roam y 96 
+\i (00:01:10) roam y 96
+\i (00:01:10) roam y 96 
+\i (00:01:10) roam y 96
+\i (00:01:10) roam y 96 
+\i (00:01:10) roam y 96
+\i (00:01:10) roam y 96 
+\i (00:01:10) roam y 96
+\i (00:01:10) roam y 96 
+\i (00:01:10) roam y 96
+\i (00:01:10) roam y 96 
+\i (00:01:10) roam y 96
+\i (00:01:10) roam y 96 
+\i (00:01:10) roam y 96
+\i (00:01:10) roam y 96 
+\i (00:01:10) roam y 96
+\i (00:01:10) roam y 96 
+\i (00:01:10) roam y 96
+\i (00:01:10) roam y 96 
+\i (00:01:10) roam y 96
+\i (00:01:10) roam y 96 
+\i (00:01:10) roam y 96
+\i (00:01:10) roam y 96 
+\i (00:01:10) roam y 96
+\i (00:01:10) roam y 96 
+\i (00:01:10) roam y 96
+\i (00:01:10) roam y 96 
+\i (00:01:10) roam y 96
+\i (00:01:11) roam y 96 
+\i (00:01:11) roam y 96
+\i (00:01:11) roam y 96 
+\i (00:01:11) roam y 96
+\i (00:01:11) roam x 96 
+\i (00:01:11) roam x 96
+\i (00:01:11) roam x 96 
+\i (00:01:11) roam x 96
+\i (00:01:11) roam x 96 
+\i (00:01:11) roam x 96
+\i (00:01:11) roam x 96 
+\i (00:01:11) roam x 96
+\i (00:01:11) roam x 96 
+\i (00:01:11) roam x 96
+\i (00:01:11) roam x 96 
+\i (00:01:11) roam x 96
+\i (00:01:11) roam x 96 
+\i (00:01:11) roam x 96
+\i (00:01:11) roam x 96 
+\i (00:01:11) roam x 96
+\i (00:01:12) roam x 96 
+\i (00:01:12) roam x 96
+\i (00:01:12) roam y -96 
+\i (00:01:12) roam y -96
+\i (00:01:13) roam y -96 
+\i (00:01:13) roam y -96
+\i (00:01:15) zoom out 
+\i (00:01:15) setwindow pcb
+\i (00:01:15) zoom out 2425.2 1395.2
+\t (00:01:15) Grids are drawn 64.0, 64.0 apart for enhanced viewability.
+\i (00:01:15) trapsize 383
+\i (00:01:17) zoom in 
+\i (00:01:17) setwindow pcb
+\i (00:01:17) zoom in 2425.2 1395.3
+\t (00:01:17) Grids are drawn 16.0, 16.0 apart for enhanced viewability.
+\i (00:01:17) trapsize 191
+\i (00:01:36) open 
+\i (00:01:48) fillin "Medical_Ventilator_VA.brd"
+\t (00:01:48) Opening existing design...
+\t (00:01:48) Grids are drawn 16.0, 16.0 apart for enhanced viewability.
+\i (00:01:48) trapsize 191
+\d (00:01:49) Database opened: D:/Profiles/b35902/My Documents/Archivos Freescale/Ventilator/1rst spin Final HW Deliverables for Freescale/Layout_Ventilator_VA,1/Medical_Ventilator_VA.brd
+\i (00:01:50) roam y 96 
+\i (00:01:50) roam y 96
+\i (00:01:50) roam y 96 
+\i (00:01:50) roam y 96
+\i (00:01:51) roam y 96 
+\i (00:01:51) roam y 96
+\i (00:01:51) roam y 96 
+\i (00:01:51) roam y 96
+\i (00:01:51) roam y 96 
+\i (00:01:51) roam y 96
+\i (00:01:51) roam x -96 
+\i (00:01:51) roam x -96
+\i (00:01:51) roam x -96 
+\i (00:01:51) roam x -96
+\i (00:01:51) roam y -96 
+\i (00:01:51) roam y -96
+\i (00:01:52) roam x 96 
+\i (00:01:52) roam x 96
+\i (00:01:52) roam y -96 
+\i (00:01:52) roam y -96
+\i (00:01:52) roam y -96 
+\i (00:01:52) roam y -96
+\i (00:01:53) roam x 96 
+\i (00:01:53) roam x 96
+\i (00:01:55) open 
+\i (00:02:16) fillin "menu_cancel"
+\i (00:02:18) exit 
+\t (00:02:19)     Journal end - Thu Feb 02 19:12:26 2012

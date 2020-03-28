@@ -1,0 +1,74 @@
+\t (00:00:10) allegro 16.3 p006 (v16-3-85F) i86
+\t (00:00:10) 
+
+\t (00:00:12) Opening existing drawing...
+\d (00:00:13) Database opened: C:/Documents and Settings/Administrador/Mis documentos/nacuri/ventilador/HW/Medical_Ventilator_VA,1/Medical_Ventilator_VA.brd
+\t (00:00:14) Grids are drawn 64.0, 64.0 apart for enhanced viewability.
+\i (00:00:14) trapsize 375
+\i (00:00:14) trapsize 357
+\i (00:00:14) trapsize 357
+\i (00:00:16) generaledit 
+\i (00:00:20) trapsize 239
+\i (00:00:25) zoom fit 
+\i (00:00:25) trapsize 288
+\i (00:00:27) zoom points 
+\t (00:00:27) Pick 1st corner of the new window.
+\i (00:00:28) drag_start 1288.9 1702.4
+\i (00:00:29) drag_stop 1691.9 1109.4
+\t (00:00:29) Grids are drawn 16.0, 16.0 apart for enhanced viewability.
+\i (00:00:29) trapsize 56
+\i (00:00:30) generaledit 
+\i (00:14:18) pick grid 2135.3 1502.9
+\t (00:14:18) last pick:  2135.0  1503.0
+\i (00:14:23) show element 
+\i (00:15:09) drag_start grid 1401.0 1250.6
+\i (00:15:10) drag_stop 1403.2 1287.6
+\i (00:15:11) pick grid 1380.8 1279.8
+\t (00:15:11) last pick:  1381.0  1280.0
+\i (00:15:18) pick grid 1525.4 1454.7
+\t (00:15:18) last pick:  1525.0  1455.0
+\i (00:15:18) pick grid dbl 1525.4 1454.7
+\t (00:15:18) last pick:  1525.0  1455.0
+\i (03:46:33) zoom out 
+\i (03:46:33) setwindow pcb
+\i (03:46:33) zoom out 1846.0 1405.3
+\i (03:46:33) trapsize 112
+\i (03:46:33) zoom out 
+\i (03:46:33) setwindow pcb
+\i (03:46:33) zoom out 1846.1 1405.4
+\t (03:46:33) Grids are drawn 64.0, 64.0 apart for enhanced viewability.
+\i (03:46:33) trapsize 224
+\i (03:46:34) zoom out 
+\i (03:46:34) setwindow pcb
+\i (03:46:34) zoom out 1846.1 1405.4
+\i (03:46:34) trapsize 448
+\i (03:46:41) color192 
+\i (03:46:42) setwindow cvf.dialog
+\i (03:46:42) cvf layer_mode
+\i (03:46:49) cvf layer_tree_item 'Package Geometry'
+\i (03:46:53) cvf layers_visible package_geometry/silkscreen_top TRUE
+\i (03:46:56) cvf apply
+\i (03:46:58) cvf layer_tree_item 'Board Geometry'
+\i (03:47:03) cvf layers_visible board_geometry/silkscreen_top TRUE
+\i (03:47:04) cvf apply
+\i (03:47:05) cvf okay
+\i (03:47:08) setwindow pcb
+\i (03:47:08) zoom fit 
+\i (03:47:08) trapsize 288
+\i (03:47:17) setwindow form.vf_vis
+\i (03:47:17) FORM vf_vis 1 etch_colorvisible 0 
+\i (03:47:18) FORM vf_vis 4 etch_colorvisible 0 
+\i (03:47:29) setwindow pcb
+\i (03:47:29) color192 
+\i (03:47:38) setwindow cvf.dialog
+\i (03:47:38) cvf layer_tree_item 'Board Geometry'
+\i (03:47:40) cvf layer_tree_item 'Components'
+\i (03:47:42) cvf layers_visible components components/silkscreen_top TRUE
+\i (03:47:44) cvf apply
+\i (03:47:45) cvf okay
+\i (19:54:27) setwindow pcb
+\i (19:54:27) pick grid 3326.8 585.5
+\t (19:54:27) last pick:  3327.0  586.0
+\i (58:34:38) exit 
+\f (58:34:39) Do you want to save the changes you made to Medical_Ventilator_VA.brd?
+\i (58:34:49) fillin no 

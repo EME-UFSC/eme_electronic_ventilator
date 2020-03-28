@@ -1,0 +1,120 @@
+\t (00:00:05) allegro 16.3 p006 (v16-3-85F) i86
+\t (00:00:05) 
+
+\t (00:00:07) Opening existing drawing...
+\d (00:00:07) Database opened: C:/Edgard Backup April 2011/PC DESKTOP NACURI/EDGARD/PROYECTOS/Medical/Respirator & Ventilator/Final HW Deliverables for Freescale/Layout_Ventilator_VA,1/Medical_Ventilator_VA.brd
+\t (00:00:07) Grids are drawn 64.0, 64.0 apart for enhanced viewability.
+\i (00:00:07) trapsize 227
+\i (00:00:07) trapsize 220
+\i (00:00:07) trapsize 251
+\i (00:00:08) placementedit 
+\i (00:00:11) open 
+\i (00:02:32) fillin "C:\Edgard Backup April 2011\PC DESKTOP NACURI\EDGARD\PROYECTOS\Interlatin\HW Files\Gerbers\Gerbers Load Card 16CH 15A\GRB-LC16CH15A Rev A\LC16CH_X16.brd"
+\i (00:02:32) cd "C:\Edgard Backup April 2011\PC DESKTOP NACURI\EDGARD\PROYECTOS\Interlatin\HW Files\Gerbers\Gerbers Load Card 16CH 15A\GRB-LC16CH15A Rev A"
+\t (00:02:32) Opening existing drawing...
+\i (00:02:33) trapsize 149010
+\d (00:02:33) Database opened: C:/Edgard Backup April 2011/PC DESKTOP NACURI/EDGARD/PROYECTOS/Interlatin/HW Files/Gerbers/Gerbers Load Card 16CH 15A/GRB-LC16CH15A Rev A/LC16CH_X16.brd
+\i (00:02:33) placementedit 
+\i (00:02:39) save_as 
+\i (00:02:55) fillin "LC16CH_Rev_A.brd"
+\i (00:02:55) placementedit 
+\i (00:03:11) reports 
+\i (00:03:40) placementedit 
+\i (00:37:10) reports 'Component Report' 
+\i (00:37:12) reports "Component Report"
+\i (00:37:13) placementedit 
+\i (00:37:30) setwindow text
+save
+\i (00:37:46) fillin "menu_cancel"
+\i (00:37:47) setwindow text
+\i (00:37:47) close 
+\i (01:21:30) setwindow pcb
+\i (01:21:30) odb_out 
+\f (01:21:30) The ODB++ Inside software package is not yet installed within your system. 
+
+[Reason:  ALLEGRO_BRD2ODB not defined. ]
+
+Installation will involve down loading the software  and registering for support and updates via the Valor website. 
+
+ODB++ Inside is provided to you free of charge, with complements of Cadence and Valor. 
+
+Do you want to down load the software now?
+
+\i (01:21:49) fillin no 
+   (01:21:49) Loading mfg.cxt 
+\i (01:21:49) placementedit 
+\i (01:22:27) zoom out 1 
+\i (01:22:27) setwindow pcb
+\i (01:22:27) zoom out 19346.734 6491.931
+\i (01:22:27) trapsize 298020
+\i (01:22:27) zoom out 1 
+\i (01:22:27) setwindow pcb
+\i (01:22:27) zoom out 37138.515 6342.921
+\i (01:22:27) trapsize 298020
+\i (01:22:27) zoom out 1 
+\i (01:22:27) setwindow pcb
+\i (01:22:27) zoom out 37138.515 6342.921
+\i (01:22:27) trapsize 298020
+\i (01:22:27) zoom out 1 
+\i (01:22:27) setwindow pcb
+\i (01:22:27) zoom out 37138.515 6342.921
+\i (01:22:27) trapsize 298020
+\i (01:22:30) setwindow form.vf_vis
+\i (01:22:30) FORM vf_vis colorview_list Film: FAB.art 
+\i (01:22:57) setwindow pcb
+\i (01:22:57) zoom in 1 
+\i (01:22:57) setwindow pcb
+\i (01:22:57) zoom in 14667.822 -7902.426
+\i (01:22:57) trapsize 149010
+\i (01:22:57) zoom in 1 
+\i (01:22:57) setwindow pcb
+\i (01:22:57) zoom in 8783.366 -8140.842
+\i (01:22:57) trapsize 74505
+\i (01:22:57) zoom in 1 
+\i (01:22:57) setwindow pcb
+\i (01:22:57) zoom in 8783.366 -8185.544
+\i (01:22:57) trapsize 37252
+\i (01:22:57) zoom in 1 
+\i (01:22:57) setwindow pcb
+\i (01:22:57) zoom in 8783.367 -8185.544
+\i (01:22:57) trapsize 18626
+\i (01:22:58) zoom out 1 
+\i (01:22:58) setwindow pcb
+\i (01:22:58) zoom out 9398.033 -7913.601
+\i (01:22:58) trapsize 37252
+\i (01:22:58) zoom out 1 
+\i (01:22:58) setwindow pcb
+\i (01:22:58) zoom out 9398.034 -7913.600
+\i (01:22:58) trapsize 74505
+\i (01:22:58) zoom out 1 
+\i (01:22:58) setwindow pcb
+\i (01:22:58) zoom out 9398.034 -7913.601
+\i (01:22:58) trapsize 149010
+\i (01:22:58) zoom in 1 
+\i (01:22:58) setwindow pcb
+\i (01:22:58) zoom in 16163.085 -8677.277
+\i (01:22:58) trapsize 74505
+\i (01:22:58) zoom in 1 
+\i (01:22:58) setwindow pcb
+\i (01:22:58) zoom in 15879.966 -8677.277
+\i (01:22:58) trapsize 37252
+\i (01:22:58) zoom in 1 
+\i (01:22:58) setwindow pcb
+\i (01:22:58) zoom in 15730.956 -8677.276
+\i (01:22:58) trapsize 18626
+\i (01:22:59) zoom out 1 
+\i (01:22:59) setwindow pcb
+\i (01:22:59) zoom out 14795.919 -8457.486
+\i (01:22:59) trapsize 37252
+\i (01:23:00) zoom out 1 
+\i (01:23:00) setwindow pcb
+\i (01:23:00) zoom out 14795.919 -8457.486
+\i (01:23:00) trapsize 74505
+\i (01:23:00) zoom out 1 
+\i (01:23:00) setwindow pcb
+\i (01:23:00) zoom out 14795.918 -8457.486
+\i (01:23:00) trapsize 149010
+\i (01:24:32) trapsize 158699
+\i (01:30:51) exit 
+\f (01:30:51) Do you want to save the changes you made to C:/Edgard Backup April 2011/PC DESKTOP NACURI/EDGARD/PROYECTOS/Interlatin/HW Files/Gerbers/Gerbers Load Card 16CH 15A/GRB-LC16CH15A Rev A/LC16CH_Rev_A.brd?
+\i (01:30:52) fillin yes 

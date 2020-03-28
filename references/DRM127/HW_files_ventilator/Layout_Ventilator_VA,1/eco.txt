@@ -1,0 +1,34 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  C:.../ventilador/HW/Medical_Ventilator_VA,1/Medical_Ventilator_VA.brd       |
+|                                                    Wed Nov 10 09:50:41 2010  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  EXTAL1       pins DELETED FROM this net (all pins deleted)
+                                 U2.38            1774.0  1237.9
+               pins MOVED FROM this net (to net name listed on right)
+                                 C11.1            1774.0   873.7
+                                                                         EXTAL2
+                                 R3.1             1767.0  1101.0
+                                                                         EXTAL2
+                                 TP18.1           1824.0   703.0
+                                                                         EXTAL2
+                                 Y2.1             1780.7   961.5
+                                                                         EXTAL2
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  EXTAL2       pins ADDED TO this new net
+                                 U2.41            1833.1  1237.9
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  XTAL1        pins DELETED FROM this net (all pins deleted)
+                                 U2.39            1793.7  1237.9
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  XTAL2        pins ADDED TO this existing net (pins not previously on any net)
+                                 U2.42            1852.7  1237.9
+|------------------------------------------------------------------------------|
+|   total ECO changes reported  8                                              |
+|------------------------------------------------------------------------------|
