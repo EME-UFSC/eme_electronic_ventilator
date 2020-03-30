@@ -55,23 +55,6 @@ GenerateClassCluster=0
 DocumentUniqueId=FHWKVWTX
 
 [Document2]
-DocumentPath=..\Biblioteca\RespiradorLib.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=TGFXLEHS
-
-[Document3]
 DocumentPath=POWER.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -88,7 +71,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LBNDXLEA
 
-[Document4]
+[Document3]
 DocumentPath=SENSORS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -105,7 +88,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NEQMHTMB
 
-[Document5]
+[Document4]
 DocumentPath=SWITCHING.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -121,6 +104,27 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KVEMEIPM
+
+[Document5]
+DocumentPath=MAIN.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ASKIJNBA
+
+[SearchPath1]
+Path=E:\Pedro\Projeto Corona\EME-UFSC\Projeto PCB\LIBALTIUM\altium-library-master\Altium Database Library V2.DbLib\*.*
+IncludeSubFolders=1
 
 [Configuration1]
 Name=Sources
